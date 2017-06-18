@@ -13,3 +13,8 @@ Create a new branch is quick and simple.
 >>>>>>> feature1
 Create a new branch is quick AND simple.
 add merge
+<<<<<<< HEAD
+modify
+=======
+add /usr/bin/env
+>>>>>>> ce3569cd452a2da9fe98975921cf2155acfda53c
