@@ -13,3 +13,4 @@ Create a new branch is quick and simple.
 >>>>>>> feature1
 Create a new branch is quick AND simple.
 add merge
+add /usr/bin/env
