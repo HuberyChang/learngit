@@ -6,3 +6,4 @@ git tracks changes.
 error: could not lock config file .git/config: Permission denied
 test
 test again
+Create a new branch is quick.
